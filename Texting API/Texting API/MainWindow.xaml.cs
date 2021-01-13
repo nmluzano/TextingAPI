@@ -25,9 +25,19 @@ namespace Texting_API
             InitializeComponent();
         }
 
-        private void btnSend_Click(object sender, RoutedEventArgs e)
+        private void charCount()
         {
-
+            int j = txtMessage.Text.Length;
+            string charcount = j.ToString() + " " + "/" + " " + "100";
+            CharCount.Text = charcount;
         }
+
+
+        private void txtMessage_TextChanged(object sender, TextChangedEventArgs e)
+        {
+            charCount();
+            txtMessage.MaxLength = 100;
+        }
+
     }
 }
