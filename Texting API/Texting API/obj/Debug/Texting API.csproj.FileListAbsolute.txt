@@ -13,3 +13,6 @@ C:\Users\Nicole\Desktop\SHS\API\Texting API\Texting API\obj\Debug\Texting API.cs
 C:\Users\Nicole\Desktop\SHS\API\Texting API\Texting API\obj\Debug\Texting API.csproj.CoreCompileInputs.cache
 C:\Users\Nicole\Desktop\SHS\API\Texting API\Texting API\obj\Debug\Texting API.exe
 C:\Users\Nicole\Desktop\SHS\API\Texting API\Texting API\obj\Debug\Texting API.pdb
+C:\Users\Nicole\Desktop\SHS\API\Texting API\Texting API\bin\Debug\RestSharp.dll
+C:\Users\Nicole\Desktop\SHS\API\Texting API\Texting API\bin\Debug\RestSharp.xml
+C:\Users\Nicole\Desktop\SHS\API\Texting API\Texting API\obj\Debug\Texting API.csproj.CopyComplete
